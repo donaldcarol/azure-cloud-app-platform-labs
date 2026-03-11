@@ -1,0 +1,9 @@
+{
+  "name": "azure-app-service-lab",
+  "version": "1.0.0",
+  "description": "Simple Azure App Service lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
