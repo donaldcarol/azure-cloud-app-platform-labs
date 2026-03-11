@@ -1,4 +1,4 @@
-\# Azure Cloud App Platform Labs
+# Azure Cloud App Platform Labs
 
 
 
@@ -24,7 +24,7 @@ The goal is to cover common cloud engineer tasks such as:
 
 
 
-\## Lab Structure
+## Lab Structure
 
 
 
