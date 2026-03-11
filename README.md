@@ -32,6 +32,20 @@ Day 1 – Azure App Service
 
 Deploying a web application, configuring application settings, custom domains and SSL.
 
+## Azure App Service Lab
+
+This lab demonstrates how to deploy a simple Node.js application to Azure App Service.
+
+Steps performed:
+
+1. Created an Azure App Service (Linux, Node.js runtime)
+2. Deployed application files via Kudu
+3. Verified application startup using `npm start`
+4. Configured application settings as environment variables
+5. Accessed the application via the default Azure domain
+
+The application reads environment variables injected by App Service.
+
 
 
 Day 2 – Azure Static Web Apps  
